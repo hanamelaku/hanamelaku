@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hanamelaku
+- 👋 Hi, I’m hanamelaku, i am a second year software engineering student at bahirdar univeristy poli campus.
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on app development
