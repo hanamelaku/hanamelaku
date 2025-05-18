@@ -1,0 +1,6 @@
+- 👋 Hi, I’m hanamelaku
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on app development
+- 📫 How to reach me
+-       email-hanamelaku7233@gmail.com
